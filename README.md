@@ -51,9 +51,9 @@ npm run dev
 ## 📖 Documentation
 
 For detailed documentation about Shora Cloud:
-- [Platform Documentation](https://docs.shoracloud.com)
-- [API Reference](https://docs.shoracloud.com/api)
-- [SDK Documentation](https://docs.shoracloud.com/sdk)
+- [Platform Documentation](https://docs.shora.cloud)
+- [API Reference](https://docs.shora.cloud/api)
+- [SDK Documentation](https://docs.shora.cloud/sdk)
 
 ## 🤝 Contributing
 
@@ -72,10 +72,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Support
 
-- 📧 Email: support@shoracloud.com
+- 📧 Email: support@shora.cloud
 - 💬 Discord: [Join our community](https://discord.gg/shoracloud)
 - 🐦 Twitter: [@ShoraCloud](https://twitter.com/shoracloud)
 
 ## 🏢 About Shora Cloud
 
-Shora Cloud is a headless, API-first commerce platform developed by Shora Technology Inc.
+Shora Cloud is a headless, API-first commerce platform developed by Svenca LTD
